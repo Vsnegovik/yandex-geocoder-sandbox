@@ -26,3 +26,5 @@ Result example:
 Вологодский район
 ```
 test
+
+qwertyuio
